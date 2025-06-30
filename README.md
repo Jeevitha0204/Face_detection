@@ -22,7 +22,7 @@ This project implements a real-time face detection system using Python and OpenC
 - **Libraries:** OpenCV  
 - **Model:** Haar Cascade (`haarcascade_frontalface_default.xml`)  
 
-## 📦 Installation and Setup
+# Installation and Setup
 
 ```bash
 # Clone the repository

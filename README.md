@@ -32,3 +32,9 @@ cd Face_detection
 # Install required libraries
 pip install opencv-python
 
+How It Works
+Loads the Haar Cascade face detection model from OpenCV’s pre-trained XML files
+Captures video stream from your default webcam
+Converts each frame to grayscale (required by the model)
+Detects faces and draws blue rectangles around them
+Exits when the user presses the 'q' key
